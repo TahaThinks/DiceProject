@@ -144,12 +144,12 @@ a{
     }
     .ScoreOne{
         grid-area: ScoreOne;
-        font-size: 1.25em;
+        font-size: 1em;
         font-weight: 600;
     }
     .ScoreTwo{
         grid-area: ScoreTwo;
-        font-size: 1.25em;
+        font-size: 1em;
         font-weight: 600;
     }
 
