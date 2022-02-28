@@ -1,1 +1,2 @@
 # DiceProject
+Fixed some issues
