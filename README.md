@@ -4,4 +4,4 @@ Each one of the pair of dice is given to a player and is thrown.
 The Player with the higher number scores.
 
 Fixed some issues
-updated the design of the app
+updated the design of the application
