@@ -6,4 +6,4 @@ The Player with the higher number scores.
 Fixed some issues
 updated the application design
 
-Taha Ahmed 
+Taha Ahmed Abdelazim 
